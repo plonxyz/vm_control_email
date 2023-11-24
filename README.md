@@ -49,7 +49,3 @@ This script should be used with caution. Ensure that your email account and serv
 ## Contributing
 
 Contributions to improve the script or extend its functionalities are welcome. Please submit pull requests or open issues as needed.
-
-## License
-
-This script is provided under [specify your preferred license, e.g., MIT License].
